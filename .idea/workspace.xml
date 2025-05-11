@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cc8faab-0baa-4a05-b809-c26c698d49fc" name="Changes" comment="[chapter4] blue green auto deployment">
+    <list default="true" id="5cc8faab-0baa-4a05-b809-c26c698d49fc" name="Changes" comment="[chapter6] 파이프라인 구축 후 마주하게 되는 고민들">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,18 +12,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2wwXrspfATrd64A2XPKfhnJvy4p" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/yoon/workspace/cicd-workspace",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/chapter5/deploy" />
+      <recent name="$PROJECT_DIR$/chapter5/deploy/helm" />
+      <recent name="$PROJECT_DIR$/chapter5/deploy/helm/4.addition/api-tester" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="[chapter4] blue green auto deployment">
       <option name="closed" value="true" />
@@ -33,12 +55,57 @@
       <option name="project" value="LOCAL" />
       <updated>1746534642201</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[chapter5] helm profile test">
+      <option name="closed" value="true" />
+      <created>1746541142655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746541142655</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[chapter5] helm profile test">
+      <option name="closed" value="true" />
+      <created>1746541235029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746541235029</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[chapter6] 파이프라인 구축 후 마주하게 되는 고민들">
+      <option name="closed" value="true" />
+      <created>1746541720681</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746541720681</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[chapter6] 파이프라인 구축 후 마주하게 되는 고민들">
+      <option name="closed" value="true" />
+      <created>1746542320314</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746542320314</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cc8faab-0baa-4a05-b809-c26c698d49fc" name="Changes" comment="[chapter6] 파이프라인 구축 후 마주하게 되는 고민들" />
+      <created>1746953811372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746953811372</updated>
+      <workItem from="1746953812428" duration="162000" />
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[chapter3] blue green deployment test" />
     <MESSAGE value="[chapter4] blue green auto deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="[chapter4] blue green auto deployment" />
+    <MESSAGE value="[chapter5] helm profile test" />
+    <MESSAGE value="[chapter6] 파이프라인 구축 후 마주하게 되는 고민들" />
+    <option name="LAST_COMMIT_MESSAGE" value="[chapter6] 파이프라인 구축 후 마주하게 되는 고민들" />
   </component>
 </project>
