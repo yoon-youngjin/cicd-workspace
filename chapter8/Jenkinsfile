@@ -26,7 +26,7 @@ pipeline {
         TAG = "${APP_VERSION}-" + "${BUILD_DATE}"
 
         // 실습 넘버링
-        CLASS_NUM = '2232'
+        CLASS_NUM = 'chapter8'
     }
 
     stages {
